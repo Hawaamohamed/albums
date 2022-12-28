@@ -1,0 +1,5 @@
+/* custom css code */
+.active-route{
+    background-color: #7367f0;
+    color: #FFF !important;
+}
